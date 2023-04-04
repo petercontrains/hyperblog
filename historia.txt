@@ -1,7 +1,7 @@
 Esta es una prueba de git
 Archivo creado por Pedro Contreras Flores
 Pedro tiene 48 años y nació  en Antofagasta Chile
-Hoy hablaremos de su vida.
+Hoy hablaremos de su vida y obra maestra.
 
 ---------
 agrego seccion 2
